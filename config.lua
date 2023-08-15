@@ -2,8 +2,10 @@ Config = Config or {}
 
 -- make sure item in small capital !!!
 Config.Items = {
-    ['weapon_pistol'] = 2500,
-    ['meth'] = 400,
+    ['methkey'] = 100000,
+    ['cocainekey'] = 100000,
+    ['weedkey'] = 100000,	
+    ['bakingsoda'] = 400,
 }
 
 Config.model = 'csb_jackhowitzer'
