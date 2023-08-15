@@ -1,6 +1,8 @@
 # qb-blackmarket
 qb-core black market
 
+修复钱不够还可以成功购买物品的bug
+
 you need to hack someone called CRAZY JACK 
 
 make sure to not hit jack bec you will lose him
